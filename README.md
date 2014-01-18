@@ -52,12 +52,9 @@ This is a fine way to try out GitHub, if you've never done it before.  Don't be 
 
 There are four easy steps, once you [join GitHub](https://github.com/join):
 
-1. [fork this repository](https://help.github.com/articles/fork-a-repo)  
-<img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png" />
-2. [edit list.md](https://help.github.com/articles/editing-files) right here on GitHub  
-<img src="https://github-images.s3.amazonaws.com/help/repository/Edit-file.png" />
+1. [fork this repository](https://github.com/kentbrew/dogefaucets/fork) 
+2. [edit list.md](https://github.com/kentbrew/dogefaucets/edit/master/README.md) right here on GitHub  
 3. [submit a pull request](https://help.github.com/articles/using-pull-requests)
-<img src="https://github-images.s3.amazonaws.com/help/pull_requests/pull-request-start-review-button.png" />
 4. profit!
 
 Also works: submit an issue. I'll have to fix it up myself, so your reward may be smaller.
