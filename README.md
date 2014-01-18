@@ -54,7 +54,7 @@ There are four easy steps, once you [join GitHub](https://github.com/join):
 
 1. [Fork this repository](https://github.com/kentbrew/dogefaucets/fork) and get your own copy.
 2. From your copy, [edit list.md](../../edit/master/README.md) right here on GitHub  
-3. Again from your own copy, [submit a pull request](./pull/new/master)
+3. Again from your own copy, [submit a pull request](../../pull/new/master)
 4. profit!
 
 Also works: submit an issue. I'll have to fix it up myself, so your reward may be smaller.
