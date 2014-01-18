@@ -52,14 +52,14 @@ Issues and pull requests are fine ways to try out GitHub, if you've never done i
 
 ### Submit an Issue
 
-Issues are super-easy: sign in to GitHub and [fire one off](https://github.com/kentbrew/dogefaucets/issues/new).  I'll have to fix it up myself, so it may take longer and your reward may be smaller.
+Issues are super-easy: sign in to GitHub and [fire one off](https://github.com/kentbrew/dogefaucets/issues/new).  Since I'll have to fix it up myself, your reward may be smaller.
 
 ### Fork Your Own Copy
 
 There are four easy steps, once you [join GitHub](https://github.com/join):
 
 1. [Fork this repository](https://github.com/kentbrew/dogefaucets/fork) and get your own copy.
-2. From your copy, [edit list.md](../../edit/master/README.md) right here on GitHub  
-3. Again from your own copy, [submit a pull request](../../pull/new/master)
+2. From your own copy, [edit README.md](https://help.github.com/articles/editing-files), right here on GitHub.  
+3. Again from your own copy, [submit a pull request](https://help.github.com/articles/creating-a-pull-request).
 4. Profit!
 
