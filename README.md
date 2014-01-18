@@ -1,6 +1,6 @@
 # Dogecoin Faucet List
 
-New to doge and just want to try it out? Here's a list of sites that will give you a few coins for free: 
+New to doge and just want to try it out? Here's a list of sites that will give you a few coins for the privilege of showing you a few ads and setting a few cookies on your browser: 
 
 ### Working
 
@@ -31,7 +31,7 @@ New to doge and just want to try it out? Here's a list of sites that will give y
 - Redirects to unobtanium.io [http://dogecoinfaucet.com](http://dogecoinfaucet.com)
 
 
-## More Faucet Lists
+## Moar Lists
 
 All of these were found under the Dogecoin Faucets section on [/r/dogecoin/](http://www.reddit.com/r/dogecoin/):
 
@@ -44,7 +44,7 @@ All of these were found under the Dogecoin Faucets section on [/r/dogecoin/](htt
 - Happy you found this? Kindly donate a few doge to DPDptULvwp2HMmkFBCwTZDLX12jmCXG967, to reward future contributions.
 - Even better because it's public and will help spread the news: tip the author on Reddit, via [http://reddit.com/u/kentbrew](/u/kentbrew). 
 
-## Help Maintain the List
+## Support the List
 
 Found something new? Found something wrong? Submit an issue or a pull request with your dogecoin address and be rewarded from the donation pool!  
 
