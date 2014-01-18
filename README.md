@@ -51,7 +51,7 @@ All of these sites were found under the Dogecoin Faucets section on [/r/dogecoin
 Happy you found this?  Why not help out?
 
 - Shoot a few doge to __DPDptULvwp2HMmkFBCwTZDLX12jmCXG967__.
-- Even better because it's public and will help spread the news: tip me on Reddit, via (/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
+- Even better because it's public and will help spread the news: tip me on Reddit via [/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
 
 Any donations received will be paid to future contributors, and yes, I've started the ball rolling with 1000 doge of my own. 
 
