@@ -57,4 +57,4 @@ There are four easy steps, once you [join GitHub](https://github.com/join):
 3. Again from your own copy, [submit a pull request](../../pull/new/master)
 4. profit!
 
-Also works: submit an issue. I'll have to fix it up myself, so your reward may be smaller.
+Also works: [submit an issue](https://github.com/kentbrew/dogefaucets/issues/new). I'll have to fix it up myself, so your reward may be smaller.
