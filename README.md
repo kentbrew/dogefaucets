@@ -46,15 +46,20 @@ All of these were found under the Dogecoin Faucets section on [/r/dogecoin/](htt
 
 ## Help Maintain the List
 
-Found something new? Found something wrong? Submit a pull request with your dogecoin address and be rewarded from the donation pool!  
+Found something new? Found something wrong? Submit an issue or a pull request with your dogecoin address and be rewarded from the donation pool!  
 
-This is a fine way to try out GitHub, if you've never done it before.  Don't be scared:  you can do everything you need to do online right here, without install anything on your system. 
+Issues and pull requests are fine ways to try out GitHub, if you've never done it before.  Don't be scared:  you can do everything you need to do online right here, without install anything on your system. 
+
+### Submit an Issue
+
+Issues are super-easy: sign in to GitHub and [fire one off](https://github.com/kentbrew/dogefaucets/issues/new).  I'll have to fix it up myself, so it may take longer and your reward may be smaller.
+
+### Fork Your Own Copy
 
 There are four easy steps, once you [join GitHub](https://github.com/join):
 
 1. [Fork this repository](https://github.com/kentbrew/dogefaucets/fork) and get your own copy.
 2. From your copy, [edit list.md](../../edit/master/README.md) right here on GitHub  
 3. Again from your own copy, [submit a pull request](../../pull/new/master)
-4. profit!
+4. Profit!
 
-Also works: [submit an issue](https://github.com/kentbrew/dogefaucets/issues/new). I'll have to fix it up myself, so your reward may be smaller.
