@@ -23,7 +23,6 @@ New to doge and just want to try it out? Here's a list of sites that will give y
 ### Broken
 
 - We Mine It [http://freedoge.we-mine.it/](http://freedoge.we-mine.it/)
-- Little Doge [http://littledoge.com/](http://littledoge.com/)
 - Faucet at dogecoins.pl [http://95.85.13.147/faucet/](http://95.85.13.147/faucet/)
 
 ### Missing, Scammy, or Otherwise Hinky
