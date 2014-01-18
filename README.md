@@ -41,7 +41,7 @@ All of these sites were found under the Dogecoin Faucets section on [/r/dogecoin
 ## Help Spread the Love
 
 - Happy you found this? Kindly shoot a few doge to this address:  
-    DPDptULvwp2HMmkFBCwTZDLX12jmCXG967  
+_DPDptULvwp2HMmkFBCwTZDLX12jmCXG967_  
 ... and I'll pay it forward to future contributors.
 - Even better because it's public and will help spread the news: tip the author on Reddit, via [http://reddit.com/u/kentbrew](/u/kentbrew). 
 
