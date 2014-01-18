@@ -38,26 +38,34 @@ All of these sites were found under the Dogecoin Faucets section on [/r/dogecoin
 - Frank's List [http://dogebb.com/index.php?topic=185.0](http://dogebb.com/index.php?topic=185.0)
 - Alexander's List [http://freedogecoins.net/](http://freedogecoins.net/)
 
-## Donations Will Be Paid Forward
+### Why Make This List?
 
-Happy you found this list?  Want to help out?
+- No ads, no cookies, no duplicates.
+- A clear path to community contributions.
+- Introduce some GitHub people to Dogecoin, and vice versa.
+
+## Support the List
+
+### Donations Will Be Paid Forward
+
+Happy you found this?  Why not help out?
 
 - Shoot a few doge to __DPDptULvwp2HMmkFBCwTZDLX12jmCXG967__.
 - Even better because it's public and will help spread the news: tip me on Reddit, via (/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
 
 Any donations received will be paid to future contributors, and yes, I've started the ball rolling with 1000 doge of my own. 
 
-## Support the List
+### Contributions Will Be Rewarded
 
 Found something new? Found something wrong? Submit an issue or a pull request with your dogecoin address and be rewarded from the donation pool!  
 
 Issues and pull requests are fine ways to try out GitHub, if you've never done it before.  Don't be scared:  you can do everything you need to do online right here, without install anything on your system. 
 
-### Submit an Issue
+#### Submit an Issue
 
 Issues are super-easy: sign in to GitHub and [fire one off](https://github.com/kentbrew/dogefaucets/issues/new).  Since I'll have to fix it up myself, your reward may be smaller.
 
-### Fork Your Own Copy
+#### Fork Your Own Copy
 
 There are four easy steps, once you [join GitHub](https://github.com/join):
 
