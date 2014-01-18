@@ -30,7 +30,7 @@ New to doge and just want to try it out? Here's a list of sites that will give y
 
 - Redirects to unobtanium.io [http://dogecoinfaucet.com](http://dogecoinfaucet.com)
 
-## Moar Lists
+### Moar Lists
 
 All of these sites were found under the Dogecoin Faucets section on [/r/dogecoin/](http://www.reddit.com/r/dogecoin/):
 
@@ -38,12 +38,14 @@ All of these sites were found under the Dogecoin Faucets section on [/r/dogecoin
 - Frank's List [http://dogebb.com/index.php?topic=185.0](http://dogebb.com/index.php?topic=185.0)
 - Alexander's List [http://freedogecoins.net/](http://freedogecoins.net/)
 
-## Help Spread the Love
+## Donations Will Be Paid Forward
 
-- Happy you found this? Kindly shoot a few doge to this address:  
-<code>DPDptULvwp2HMmkFBCwTZDLX12jmCXG967</code>   
-... and I'll pay it forward to future contributors.
-- Even better because it's public and will help spread the news: tip the author on Reddit, via [http://reddit.com/u/kentbrew](/u/kentbrew). 
+Happy you found this list?  Want to help out?
+
+- Shoot a few doge to __DPDptULvwp2HMmkFBCwTZDLX12jmCXG967__.
+- Even better because it's public and will help spread the news: tip me on Reddit, via (/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
+
+Any donations received will be paid to future contributors, and yes, I've started the ball rolling with 1000 doge of my own. 
 
 ## Support the List
 
