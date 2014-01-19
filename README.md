@@ -53,29 +53,27 @@ New to doge (or cybercurrency in general) and want to try it out? Once you've (g
 - Frank's List [http://dogebb.com/index.php?topic=185.0](http://dogebb.com/index.php?topic=185.0)
 - Alexander's List [http://freedogecoins.net/](http://freedogecoins.net/)
 - Ummjackson's List [https://github.com/ummjackson/dogecoin-resources#faucets](https://github.com/ummjackson/dogecoin-resources#faucets)
-- Keep an eye on the Dogecoin Faucets section on [http://www.reddit.com/r/dogecoin/](http://www.reddit.com/r/dogecoin/)
+- Keep an eye on the Dogecoin Faucets section on [/r/dogecoin/](http://www.reddit.com/r/dogecoin/)
 
 
-### Why Make This List?
+## Why Make This List?
 
 - No ads, no cookies, no duplicates.
 - A clear path to community contributions.
 - Introduce some GitHub people to Dogecoin, and vice versa.
 
-## Support the List
-
 ### Donations Will Be Paid Forward
 
-Happy you found this?  Why not help out?
+Happy you found this?  Here's how you can help:
 
 - Shoot a few doge to __<a href="http://dogechain.info/address/DPDptULvwp2HMmkFBCwTZDLX12jmCXG967">DPDptULvwp2HMmkFBCwTZDLX12jmCXG967</a>__.
 - Even better because it's public and will help spread the news: tip me on Reddit via [/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
 
-Any donations received will be paid to future contributors, and yes, I've started the ball rolling with 1000 doge of my own. 
+Any doge received will be paid to future contributors, and yes, I've started the ball rolling with 1000 of my own. 
 
 ### Contributions Will Be Rewarded
 
-Found something new? Found something wrong? Submit an issue or a pull request with your dogecoin address and be rewarded from the donation pool!  
+Found something new? Found something wrong? Found something awesome? Submit an issue or a pull request with your dogecoin address and be rewarded from the donation pool!  
 
 Issues and pull requests are fine ways to try out GitHub, if you've never done it before.  Don't be scared:  you can do everything you need to do online right here, without install anything on your system. 
 
