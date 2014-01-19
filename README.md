@@ -4,6 +4,7 @@ New to doge--or cybercurrency in general--and want to try it out? Once you've [g
 
 ### Working
 
+- Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)
 - Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)
 - Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
 - The Pawcett [http://pawcett.com/](http://pawcett.com/)
