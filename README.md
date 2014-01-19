@@ -71,19 +71,23 @@ Happy you found this?  Here's how you can help:
 - Shoot a few doge to __<a href="http://dogechain.info/address/DPDptULvwp2HMmkFBCwTZDLX12jmCXG967">DPDptULvwp2HMmkFBCwTZDLX12jmCXG967</a>__.
 - Even better because it's public and will help spread the news: tip me on Reddit via [/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
 
-Any doge received will be paid to future contributors, and yes, I've started the ball rolling with 1000 of my own. 
+Any doge received will be paid to future contributors, and yes, I've started the ball rolling with 1000 of my own. Also holding a few doge in my Reddit wallet from generour tippers; wil move that over here if the balance grows too much higher.
 
 ### Contributions Will Be Rewarded
 
-Found something new? Found something wrong? Found something awesome? Let me know on [/r/dogecoin/](http://www.reddit.com/r/dogecoin/comments/1vkyju/doge_faucet_list_powered_by_community/), or submit an issue or a pull request with your dogecoin address and be rewarded from the donation pool!  
+Found something new? Found something wrong? Found something awesome? Speak and be rewarded from the donation pool!  
 
-Issues and pull requests are fine ways to try out GitHub, if you've never done it before.  Don't be scared:  you can do everything you need to do online right here, without install anything on your system. 
+#### Comment on Reddit
 
-#### Submit an Issue
+Let me know on [/r/dogecoin/](http://www.reddit.com/r/dogecoin/comments/1vkyju/doge_faucet_list_powered_by_community/).
+
+#### GitHub Issue
 
 Issues are super-easy: sign in to GitHub and [fire one off](https://github.com/kentbrew/dogefaucets/issues/new).  Since I'll have to fix it up myself, your reward may be smaller.
 
-#### Fork Your Own Copy
+#### GitHub Pull Request
+
+Pull requests are fine ways to try out GitHub, if you've never done it before.  Don't be scared:  you can do everything you need to do online right here, without install anything on your system. 
 
 There are four easy steps, once you [join GitHub](https://github.com/join):
 
