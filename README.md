@@ -1,4 +1,4 @@
-# @kentbrew's Dogecoin Faucet List
+# Dogecoin Faucet List
 
 New to doge--or cybercurrency in general--and want to try it out? Once you've [gotten yourself a Dogecoin address](http://dogecoin.com/), here's a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
 
