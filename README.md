@@ -74,7 +74,7 @@ Any doge received will be paid to future contributors, and yes, I've started the
 
 ### Contributions Will Be Rewarded
 
-Found something new? Found something wrong? Found something awesome? Submit an issue or a pull request with your dogecoin address and be rewarded from the donation pool!  
+Found something new? Found something wrong? Found something awesome? Let me know on [/r/dogecoin/](http://www.reddit.com/r/dogecoin/comments/1vkyju/doge_faucet_list_powered_by_community/), or submit an issue or a pull request with your dogecoin address and be rewarded from the donation pool!  
 
 Issues and pull requests are fine ways to try out GitHub, if you've never done it before.  Don't be scared:  you can do everything you need to do online right here, without install anything on your system. 
 
