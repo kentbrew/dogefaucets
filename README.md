@@ -7,7 +7,6 @@ New to doge--or cybercurrency in general--and want to try it out? Once you've [g
 - Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)
 - Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)
 - Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
-- The Pawcett [http://pawcett.com/](http://pawcett.com/)
 - Bartstuff.EU [http://bartstuff.eu/doge/doge2.php](http://bartstuff.eu/doge/doge2.php)
 - In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)
 - Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)  
@@ -16,16 +15,15 @@ New to doge--or cybercurrency in general--and want to try it out? Once you've [g
 - Earn Bits DogeCoin Faucet [http://earnbits.net/dogefaucet/](http://earnbits.net/dogefaucet/)
 - Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)
+- Little Doge [http://littledoge.com/](http://littledoge.com/)
+- The Pawcett [http://pawcett.com/](http://pawcett.com/)
+- Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)
+- Earnbits DogeCoin Faucet [http://earnbits.net/dogefaucet/](http://earnbits.net/dogefaucet/)
 
 ### Dry
 
 - Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
-- Free Doge [http://freedoge.com/](http://freedoge.com/)
-- Little Doge [http://littledoge.com/](http://littledoge.com/)
-- Pawcett [http://pawcett.com/](http://pawcett.com/)
-- Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)
 - Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)
-- Earnbits DogeCoin Faucet [http://earnbits.net/dogefaucet/](http://earnbits.net/dogefaucet/)
 
 ### Broken
 
@@ -95,3 +93,9 @@ There are four easy steps, once you [join GitHub](https://github.com/join):
 3. Again from your own copy, [submit a pull request](https://help.github.com/articles/creating-a-pull-request).
 4. Profit!
 
+<script>
+  if (console && console.log) {
+    console.log('script ahoy');
+  }
+</script>
+  
