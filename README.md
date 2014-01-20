@@ -1,4 +1,4 @@
-New to doge--or cybercurrency in general--and want to try it out? Once you've [gotten yourself a Dogecoin address](http://dogecoin.com/), here's a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
+New to Dogecoin --or cryptocurrencies in general--and want to try it out? Once you've [gotten yourself a Dogecoin wallet and address](http://dogecoin.com/), check out these sites for free Dogecoins for nothing more than solving a CAPTCHA (and maybe viewing of an ad and setting a cookie or two)!
 
 ### Working
 
@@ -63,12 +63,12 @@ New to doge--or cybercurrency in general--and want to try it out? Once you've [g
 
 ### Donations Will Be Paid Forward
 
-Happy you found this?  Here's how you can help:
+Happy you found this? Here's how you can help:
 
 - Shoot a few doge to __<a href="http://dogechain.info/address/DPDptULvwp2HMmkFBCwTZDLX12jmCXG967">DPDptULvwp2HMmkFBCwTZDLX12jmCXG967</a>__.
 - Even better because it's public and will help spread the news: tip me on Reddit via [/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
 
-Any doge received will be paid to future contributors, and yes, I've started the ball rolling with 1000 of my own. Also holding a few doge in my Reddit wallet from generour tippers; wil move that over here if the balance grows too much higher.
+Any doge received will be paid to future contributors, and yes, I've started the ball rolling with 1000 of my own. Also holding a few doge in my Reddit wallet from generous tippers; will move that over here if the balance grows too much higher.
 
 ### Contributions Will Be Rewarded
 
