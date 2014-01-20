@@ -94,9 +94,9 @@ There are four easy steps, once you [join GitHub](https://github.com/join):
 3. Again from your own copy, [submit a pull request](https://help.github.com/articles/creating-a-pull-request).
 4. Profit!
 
-<script>
-  if (console && console.log) {
-    console.log('script ahoy');
-  }
+<script type="text/javascript">
+
+document.body.className = document.body.className + ' foo';
+
 </script>
   
