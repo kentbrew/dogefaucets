@@ -2,6 +2,7 @@ New to doge--or cybercurrency in general--and want to try it out? Once you've [g
 
 ### Working
 
+- Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)
 - Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
 - Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)
 - Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)
