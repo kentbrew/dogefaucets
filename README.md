@@ -1,4 +1,4 @@
-New to doge--or cybercurrency in general--and want to try it out? Once you've [gotten yourself a Dogecoin address](http://dogecoin.com/), here's a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
+New to doge--or cryptocurrency in general--and want to try it out? Once you've [gotten yourself a Dogecoin address](http://dogecoin.com/), here's a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
 
 ### Working
 
@@ -93,10 +93,3 @@ There are four easy steps, once you [join GitHub](https://github.com/join):
 2. From your own copy, [edit README.md](https://help.github.com/articles/editing-files), right here on GitHub.
 3. Again from your own copy, [submit a pull request](https://help.github.com/articles/creating-a-pull-request).
 4. Profit!
-
-<script type="text/javascript">
-
-document.body.className = document.body.className + ' foo';
-
-</script>
-  
