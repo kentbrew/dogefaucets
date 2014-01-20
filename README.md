@@ -63,12 +63,12 @@ New to doge--or cybercurrency in general--and want to try it out? Once you've [g
 
 ### Donations Will Be Paid Forward
 
-Happy you found this?  Here's how you can help:
+Happy you found this? Here's how you can help:
 
 - Shoot a few doge to __<a href="http://dogechain.info/address/DPDptULvwp2HMmkFBCwTZDLX12jmCXG967">DPDptULvwp2HMmkFBCwTZDLX12jmCXG967</a>__.
 - Even better because it's public and will help spread the news: tip me on Reddit via [/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
 
-Any doge received will be paid to future contributors, and yes, I've started the ball rolling with 1000 of my own. Also holding a few doge in my Reddit wallet from generour tippers; wil move that over here if the balance grows too much higher.
+Any doge received will be paid to future contributors, and yes, I've started the ball rolling with 1000 of my own. Also holding a few doge in my Reddit wallet from generous tippers; wil move that over here if the balance grows too much higher.
 
 ### Contributions Will Be Rewarded
 
@@ -89,7 +89,7 @@ Pull requests are fine ways to try out GitHub, if you've never done it before.  
 There are four easy steps, once you [join GitHub](https://github.com/join):
 
 1. [Fork this repository](https://github.com/kentbrew/dogefaucets/fork) and get your own copy.
-2. From your own copy, [edit README.md](https://help.github.com/articles/editing-files), right here on GitHub.  
+2. From your own copy, [edit README.md](https://help.github.com/articles/editing-files), right here on GitHub.
 3. Again from your own copy, [submit a pull request](https://help.github.com/articles/creating-a-pull-request).
 4. Profit!
 
