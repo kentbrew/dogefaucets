@@ -2,9 +2,9 @@ New to doge--or cryptocurrency in general--and want to try it out? Once you've [
 
 #### Please Note
 
-With the recent jump in value of dogecoin, many faucets are having trouble staying open. Please donate, and please don't drain them dry if you've already more than a couple hundred doge in the bank. Thanks!
+With the recent jump in value of dogecoin, many faucets are having trouble staying open.  Please donate, and please don't drain them dry if you're already more than a couple hundred doge in the bank.  Thanks!
 
-### Working
+### Working When Not Dry
 
 - Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)
 - Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)
@@ -25,11 +25,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - The Pawcett [http://pawcett.com/](http://pawcett.com/)
 - Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)
 - Earnbits DogeCoin Faucet [http://earnbits.net/dogefaucet/](http://earnbits.net/dogefaucet/)
-
-### Dry
-
 - Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
-- Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)
 
 ### Broken
 
@@ -61,7 +57,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Keep an eye on the Dogecoin Faucets section on [/r/dogecoin/](http://www.reddit.com/r/dogecoin/)
 
 
-## Why Make This List?
+### Why Make This List?
 
 - No ads, no cookies, no duplicates.
 - A clear path to community contributions.
@@ -80,15 +76,15 @@ Any doge received will be paid to future contributors, and yes, I've started the
 
 Found something new? Found something wrong? Found something awesome? Speak and be rewarded from the donation pool!  
 
-#### Comment on Reddit
+### Comment on Reddit
 
 Let me know on [/r/dogecoin/](http://www.reddit.com/r/dogecoin/comments/1vkyju/doge_faucet_list_powered_by_community/).
 
-#### GitHub Issue
+### GitHub Issue
 
 Issues are super-easy: sign in to GitHub and [fire one off](https://github.com/kentbrew/dogefaucets/issues/new).  Since I'll have to fix it up myself, your reward may be smaller.
 
-#### GitHub Pull Request
+### GitHub Pull Request
 
 Pull requests are fine ways to try out GitHub, if you've never done it before.  Don't be scared:  you can do everything you need to do online right here, without install anything on your system. 
 
