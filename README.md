@@ -1,7 +1,12 @@
 New to doge--or cryptocurrency in general--and want to try it out? Once you've [gotten yourself a Dogecoin address](http://dogecoin.com/), here's a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
 
+#### Please Note
+
+With the recent jump in value of dogecoin, many faucets are having trouble staying open. Please donate, and please don't drain them dry if you've already more than a couple hundred doge in the bank. Thanks!
+
 ### Working
 
+- Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)
 - Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)
 - Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
 - Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)
