@@ -12,7 +12,6 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)
 - Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)
 - Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)
-- Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
 - Bartstuff.EU [http://bartstuff.eu/doge/doge2.php](http://bartstuff.eu/doge/doge2.php)
 - In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)
 - Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)  
@@ -29,6 +28,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Broken
 
+- Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
 - Free Doge [http://freedoge.com/](http://freedoge.com/) - throws errors when not dry. :(
 - Feed the Doge Conquer the Galaxy [http://dogefaucet.site90.net/](http://dogefaucet.site90.net/) 
 - Gib Doge Foode! [http://dogefoode.bidouille.org/](http://dogefoode.bidouille.org/)
