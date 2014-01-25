@@ -17,17 +17,14 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)  
 - Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)
 - CryptoBucket Doge Faucet [http://cryptobucket.com/dogefaucet/](http://cryptobucket.com/dogefaucet/)
-- Earn Bits DogeCoin Faucet [http://earnbits.net/dogefaucet/](http://earnbits.net/dogefaucet/)
 - Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)
-- Little Doge [http://littledoge.com/](http://littledoge.com/)
 - The Pawcett [http://pawcett.com/](http://pawcett.com/)
 - Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)
-- Earnbits DogeCoin Faucet [http://earnbits.net/dogefaucet/](http://earnbits.net/dogefaucet/)
-- Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
 
 ### Broken
 
+- Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
 - Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
 - Free Doge [http://freedoge.com/](http://freedoge.com/) - throws errors when not dry. :(
 - Feed the Doge Conquer the Galaxy [http://dogefaucet.site90.net/](http://dogefaucet.site90.net/) 
@@ -38,6 +35,8 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Missing, Redirecting, or Otherwise Hinky
 
+- Account Suspended: Earnbits DogeCoin Faucet [http://earnbits.net/dogefaucet/](http://earnbits.net/dogefaucet/)
+- Shut Down: Little Doge [http://littledoge.com/](http://littledoge.com/)
 - Redirects to unobtanium.io: [http://dogecoinfaucet.com/](http://dogecoinfaucet.com/)
 - Offers to pay Fedora Coin: [http://dogecoin.netii.net/](http://dogecoin.netii.net/)
 - Pays a tiny fraction of a coin and makes you wait for 5: [http://www.thebitcoinmaster.com/dogecoin](http://www.thebitcoinmaster.com/dogecoin)
