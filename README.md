@@ -6,21 +6,21 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Working When Not Dry
 
-- Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)
-- Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)
-- Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
-- Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)
-- Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)
-- Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)
-- Bartstuff.EU [http://bartstuff.eu/doge/doge2.php](http://bartstuff.eu/doge/doge2.php)
-- In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)
-- Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)  
-- Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)
+- Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)<br>donate: DDXK4XZWFu3q6qBhQ8QbyzEdMRWiEzHJHV
+- Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)<br>donate: DK1JRLbJQ6N2dYmoJgB8PfP4L7S3RYonuE
+- Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)<br>donate: DDWZGMbyZEqZ6vNathfa1nsTrxg2SnVEPh
+- Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)<br>donate: D6qdj2XYi1fFzrFeVLKN6Efog9MWHJJ7HK
+- Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)<br>donate: DQKHNHu8sZvtMv41xms5HXU6wns891DCHS
+- Bartstuff.EU [http://bartstuff.eu/doge/doge2.php](http://bartstuff.eu/doge/doge2.php)<br>donate: DLUKugfX3YBajZrJGPhJow4VcfrhMQwd4v
+- In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)<br>donate: DHKyEpfmjxtwHa7kudDm7bVq8XWX6FsWpv
+- Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)<br>donate: DDvCG7G4nAWYiaP5rghxpLPisLBDUfqawR
+- Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)<br>donate: D7cYYeDWGL5umVXYpfkekJ6xVxvDzqfDc2
+- Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)<br>donate: D6Bfdc7Jw8vgiRJob24rkVYA37E5jAJj5r
+- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DJNLKS7gg1SAueZ9ZtmrkviTnj8LLRDaki
+- The Pawcett [http://pawcett.com/](http://pawcett.com/)<br>donate: DHv84QiXiqRbVjkyS2uM86ioi6s4RLHepg
+- Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)<br>donate: DS5NeXFmXMzqQ9sNY4AoJXHf54zRWDLcKA
 - CryptoBucket Doge Faucet [http://cryptobucket.com/dogefaucet/](http://cryptobucket.com/dogefaucet/)
-- Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)
-- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)
-- The Pawcett [http://pawcett.com/](http://pawcett.com/)
-- Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)
+- Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
 
 ### Broken
 
