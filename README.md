@@ -17,7 +17,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)<br>donate: DDvCG7G4nAWYiaP5rghxpLPisLBDUfqawR
 - Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)<br>donate: D7cYYeDWGL5umVXYpfkekJ6xVxvDzqfDc2
 - Silabsoft's Dogecoin Faucet [http://silabsoft.org/doge/](http://silabsoft.org/doge/)<br>donate: D6Bfdc7Jw8vgiRJob24rkVYA37E5jAJj5r
-- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DJNLKS7gg1SAueZ9ZtmrkviTnj8LLRDaki
+- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DBeJonaQ6JDHUo22cD2uscKmBg7dayUkjW
 - The Pawcett [http://pawcett.com/](http://pawcett.com/)<br>donate: DHv84QiXiqRbVjkyS2uM86ioi6s4RLHepg
 - Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)<br>donate: DS5NeXFmXMzqQ9sNY4AoJXHf54zRWDLcKA
 - CryptoBucket Doge Faucet [http://cryptobucket.com/dogefaucet/](http://cryptobucket.com/dogefaucet/)
