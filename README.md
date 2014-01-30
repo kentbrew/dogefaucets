@@ -9,7 +9,6 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Doge For Free [http://dogeforfree.com/](http://dogeforfree.com/)<br>donate: DBtszSXm9ZfYjkqZtDhsMCJq36ABpfdrGy
 - Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)<br>donate: DDXK4XZWFu3q6qBhQ8QbyzEdMRWiEzHJHV
 - Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)<br>donate: DK1JRLbJQ6N2dYmoJgB8PfP4L7S3RYonuE
-- Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)<br>donate: DDWZGMbyZEqZ6vNathfa1nsTrxg2SnVEPh
 - Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)<br>donate: D6qdj2XYi1fFzrFeVLKN6Efog9MWHJJ7HK
 - Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)<br>donate: DQKHNHu8sZvtMv41xms5HXU6wns891DCHS
 - Bartstuff.EU [http://bartstuff.eu/doge/doge2.php](http://bartstuff.eu/doge/doge2.php)<br>donate: DLUKugfX3YBajZrJGPhJow4VcfrhMQwd4v
@@ -46,6 +45,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Redirects to faucet.dogey.org: [http://faucet.frd.mn](faucet.frd.mn)
 - All links redirect to random Bitcoin betting pages: [http://dogefaucet.tk/dogefaucet-list.php](http://dogefaucet.tk/dogefaucet-list.php)
 - 404ing: [http://dogecoin.w3msg.net/dogecoin/index.php](http://dogecoin.w3msg.net/dogecoin/index.php)
+- Down due to rotten behavior: Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)
 
 ### Moar Lists
 
