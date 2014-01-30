@@ -24,6 +24,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Broken
 
+- Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)<br>donate: DDWZGMbyZEqZ6vNathfa1nsTrxg2SnVEPh
 - Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
 - Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
 - Free Doge [http://freedoge.com/](http://freedoge.com/) - throws errors when not dry. :(
