@@ -19,7 +19,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DBeJonaQ6JDHUo22cD2uscKmBg7dayUkjW
 - The Pawcett [http://pawcett.com/](http://pawcett.com/)<br>donate: DHv84QiXiqRbVjkyS2uM86ioi6s4RLHepg
 - Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)<br>donate: DS5NeXFmXMzqQ9sNY4AoJXHf54zRWDLcKA
-- CryptoBucket Doge Faucet [http://cryptobucket.com/dogefaucet/](http://cryptobucket.com/dogefaucet/)
+- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)
 - Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
 
 ### Broken
@@ -43,7 +43,6 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Down since November, with a page that promises to be back in a week but still asks for donations and your info: [http://www.freefaucet.co.uk/](http://www.freefaucet.co.uk/)
 - Server gone: [http://teff.dyndns.tv/dogecoins](teff.dyndns.tv/dogecoins)
 - Redirects to faucet.dogey.org: [http://faucet.frd.mn](faucet.frd.mn)
-- All links redirect to random Bitcoin betting pages: [http://dogefaucet.tk/dogefaucet-list.php](http://dogefaucet.tk/dogefaucet-list.php)
 - 404ing: [http://dogecoin.w3msg.net/dogecoin/index.php](http://dogecoin.w3msg.net/dogecoin/index.php)
 - Down due to rotten behavior: Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)
 
