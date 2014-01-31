@@ -43,7 +43,6 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Down since November, with a page that promises to be back in a week but still asks for donations and your info: [http://www.freefaucet.co.uk/](http://www.freefaucet.co.uk/)
 - Server gone: [http://teff.dyndns.tv/dogecoins](teff.dyndns.tv/dogecoins)
 - Redirects to faucet.dogey.org: [http://faucet.frd.mn](faucet.frd.mn)
-- All links redirect to random Bitcoin betting pages: [http://dogefaucet.tk/dogefaucet-list.php](http://dogefaucet.tk/dogefaucet-list.php)
 - 404ing: [http://dogecoin.w3msg.net/dogecoin/index.php](http://dogecoin.w3msg.net/dogecoin/index.php)
 - Down due to rotten behavior: Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)
 
