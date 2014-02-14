@@ -65,7 +65,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 Happy you found this? Here's how you can help:
 
-- Shoot a few doge to __<a href="http://dogechain.info/address/DPDptULvwp2HMmkFBCwTZDLX12jmCXG967">DPDptULvwp2HMmkFBCwTZDLX12jmCXG967</a>__.
+- Shoot a few doge to __<a href="http://dogechain.info/address/D9HbXm37rw7NcEEQy1XutsmBtTnCxPUZmp">D9HbXm37rw7NcEEQy1XutsmBtTnCxPUZmp</a>__.
 - Even better because it's public and will help spread the news: tip me on Reddit via [/u/kentbrew](http://reddit.com/u/kentbrew) and I'll move it over.
 
 Any doge received will be paid to future contributors, and yes, I've started the ball rolling with 1000 of my own. Also holding a few doge in my Reddit wallet from generous tippers; wil move that over here if the balance grows too much higher.
