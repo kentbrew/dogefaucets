@@ -6,6 +6,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Working When Not Dry
 
+- Dogecoin Faucet [http://faucet.io/](http://faucet.io/)<br>donate: DGRB5o1XsPmSch5wHTJQqXzX2V5z3rUv15
 - Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)<br>donate: DTx8DBjQrCzjoSTKsiwqs9qLFmJLkQBki7
 - Dogecoin Barker [http://www.thebitcoinmaster.com/dogecoin/](http://www.thebitcoinmaster.com/dogecoin/)<br>donate: DNrnQbn8Tju3jNqXz3NhsvHfhg2hB25a2u
 - Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)<br>donate: D6pU4WYzELtUQuPaeHhZqG7eTX6Dr4m6HA
