@@ -8,7 +8,6 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 - Dogecoin Faucet [http://faucet.io/](http://faucet.io/)<br>donate: DGRB5o1XsPmSch5wHTJQqXzX2V5z3rUv15
 - Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)<br>donate: DTx8DBjQrCzjoSTKsiwqs9qLFmJLkQBki7
-- Dogecoin Barker [http://www.thebitcoinmaster.com/dogecoin/](http://www.thebitcoinmaster.com/dogecoin/)<br>donate: DNrnQbn8Tju3jNqXz3NhsvHfhg2hB25a2u
 - Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)<br>donate: D6pU4WYzELtUQuPaeHhZqG7eTX6Dr4m6HA
 - Doge For Free [http://dogeforfree.com/](http://dogeforfree.com/)<br>donate: DBtszSXm9ZfYjkqZtDhsMCJq36ABpfdrGy
 - Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)<br>donate: DDXK4XZWFu3q6qBhQ8QbyzEdMRWiEzHJHV
@@ -28,6 +27,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Broken
 
+- Phunsauce [http://www.phunsauce.com/](http://www.phunsauce.com/)
 - Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
 - Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
 - Free Doge [http://freedoge.com/](http://freedoge.com/) - throws errors when not dry. :(
