@@ -6,6 +6,9 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Working When Not Dry
 
+- Doge Faucet [http://dogefaucet.niau.org/](http://dogefaucet.niau.org/)<br>donate: DTx8DBjQrCzjoSTKsiwqs9qLFmJLkQBki7
+- Dogecoin Barker [http://www.thebitcoinmaster.com/dogecoin/](http://www.thebitcoinmaster.com/dogecoin/)<br>donate: DNrnQbn8Tju3jNqXz3NhsvHfhg2hB25a2u
+- Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)<br>donate: D6pU4WYzELtUQuPaeHhZqG7eTX6Dr4m6HA
 - Doge For Free [http://dogeforfree.com/](http://dogeforfree.com/)<br>donate: DBtszSXm9ZfYjkqZtDhsMCJq36ABpfdrGy
 - Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)<br>donate: DDXK4XZWFu3q6qBhQ8QbyzEdMRWiEzHJHV
 - Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)<br>donate: DK1JRLbJQ6N2dYmoJgB8PfP4L7S3RYonuE
