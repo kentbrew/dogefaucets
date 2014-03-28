@@ -6,6 +6,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Working When Not Dry
 
+Desperate Doges [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)<br>donate: DQiB7oDzp1eYSmfpYytVrDz2hCSQJoCc5Z
 - Bitcoin Mafia [http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/](http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/)<br>donate: D8ZBtukBTZEdneniTQkbFNoqwYYCSbNSLY
 - Dogecoin Faucet [http://faucet.io/](http://faucet.io/)<br>donate: DGRB5o1XsPmSch5wHTJQqXzX2V5z3rUv15
 - Doge Faucet [http://coinfaucet.me/dogecoin](http://coinfaucet.me/dogecoin)<br>donate: DJHvUXCSCaoGCqfjWtLpeFkr6t2JeL8qJK
