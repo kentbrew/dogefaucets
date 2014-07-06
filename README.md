@@ -22,17 +22,10 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Broken
 
-- The Pawcett [http://pawcett.com/](http://pawcett.com/)
 - Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)
-- Phunsauce [http://www.phunsauce.com/](http://www.phunsauce.com/)
-- Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
-- Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
-- Free Doge [http://freedoge.com/](http://freedoge.com/)
 - Feed the Doge Conquer the Galaxy [http://dogefaucet.site90.net/](http://dogefaucet.site90.net/) 
 - Gib Doge Foode! [http://dogefoode.bidouille.org/](http://dogefoode.bidouille.org/)
 - We Mine It [http://freedoge.we-mine.it/](http://freedoge.we-mine.it/)
-- Faucet at dogecoins.pl [http://95.85.13.147/faucet/](http://95.85.13.147/faucet/)
-- WickedOS [http://wickedos.net/](http://wickedos.net/)
 - Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)
 
 ### Missing, Redirecting, or Otherwise Hinky
@@ -54,6 +47,13 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Desperate Doges: [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)
 - Doge Faucet: [http://coinfaucet.me/dogecoin](http://coinfaucet.me/dogecoin)
 - Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)
+- The Pawcett [http://pawcett.com/](http://pawcett.com/)
+- Phunsauce [http://www.phunsauce.com/](http://www.phunsauce.com/)
+- Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
+- Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
+- Free Doge [http://freedoge.com/](http://freedoge.com/)
+- Faucet at dogecoins.pl [http://95.85.13.147/faucet/](http://95.85.13.147/faucet/)
+- WickedOS [http://wickedos.net/](http://wickedos.net/)
 
 ### Moar Lists
 
