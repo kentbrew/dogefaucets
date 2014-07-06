@@ -7,16 +7,12 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 ### Working When Not Dry
 
 - The Doge Bowl [http://www.thedogebowl.com/](http://www.thedogebowl.com/)<br>donate: D8q499U8RT5o7Kof44tohWH7NLRstEYr6Z
-- Desperate Doges (caution: extremely agressive pop-up ads) [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)<br>donate: DQiB7oDzp1eYSmfpYytVrDz2hCSQJoCc5Z
 - Bitcoin Mafia [http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/](http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/)<br>donate: D8ZBtukBTZEdneniTQkbFNoqwYYCSbNSLY
 - Dogecoin Faucet [http://faucet.io/](http://faucet.io/)<br>donate: DGRB5o1XsPmSch5wHTJQqXzX2V5z3rUv15
-- Doge Faucet [http://coinfaucet.me/dogecoin](http://coinfaucet.me/dogecoin)<br>donate: DJHvUXCSCaoGCqfjWtLpeFkr6t2JeL8qJK
 - Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)<br>donate: D6pU4WYzELtUQuPaeHhZqG7eTX6Dr4m6HA
-- Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)<br>donate: DDXK4XZWFu3q6qBhQ8QbyzEdMRWiEzHJHV
 - Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)<br>donate: DQKHNHu8sZvtMv41xms5HXU6wns891DCHS
 - In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)<br>donate: DHKyEpfmjxtwHa7kudDm7bVq8XWX6FsWpv
 - Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)<br>donate: DDvCG7G4nAWYiaP5rghxpLPisLBDUfqawR
-- Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)<br>donate: D7cYYeDWGL5umVXYpfkekJ6xVxvDzqfDc2
 - Cryptospout's Dogecoin Faucet [http://cryptospout.com/faucet.php?coin=DOGE](http://cryptospout.com/faucet.php?coin=DOGE)<br>donate: D6Bfdc7Jw8vgiRJob24rkVYA37E5jAJj5r
 - Cryptotide's Dogecoin Faucet [http://cryptotide.com/faucet.php?coin=DOGE] (http://cryptotide.com/faucet.php?coin=DOGE) <br> donate: D6Bfdc7Jw8vgiRJob24rkVYA37E5jAJj5r
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DBeJonaQ6JDHUo22cD2uscKmBg7dayUkjW
@@ -31,12 +27,13 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Phunsauce [http://www.phunsauce.com/](http://www.phunsauce.com/)
 - Dogecoinr [http://dogecoinr.com/services/faucet/](http://dogecoinr.com/services/faucet/)
 - Rapidhash Faucet [https://faucet.rapidhash.net/index.php](https://faucet.rapidhash.net/index.php)
-- Free Doge [http://freedoge.com/](http://freedoge.com/) - throws errors when not dry. :(
+- Free Doge [http://freedoge.com/](http://freedoge.com/)
 - Feed the Doge Conquer the Galaxy [http://dogefaucet.site90.net/](http://dogefaucet.site90.net/) 
 - Gib Doge Foode! [http://dogefoode.bidouille.org/](http://dogefoode.bidouille.org/)
 - We Mine It [http://freedoge.we-mine.it/](http://freedoge.we-mine.it/)
 - Faucet at dogecoins.pl [http://95.85.13.147/faucet/](http://95.85.13.147/faucet/)
 - WickedOS [http://wickedos.net/](http://wickedos.net/)
+- Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)
 
 ### Missing, Redirecting, or Otherwise Hinky
 
@@ -54,6 +51,9 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - Redirects to faucet.dogey.org: [http://faucet.frd.mn](faucet.frd.mn)
 - 404ing: [http://dogecoin.w3msg.net/dogecoin/index.php](http://dogecoin.w3msg.net/dogecoin/index.php)
 - Down due to rotten behavior: Get 5 Doge Coins [http://get5doge.com/](http://get5doge.com/)
+- Desperate Doges: [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)
+- Doge Faucet: [http://coinfaucet.me/dogecoin](http://coinfaucet.me/dogecoin)
+- Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)
 
 ### Moar Lists
 
