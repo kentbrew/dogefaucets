@@ -6,19 +6,18 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Working When Not Dry
 
-- The Doge Bowl [http://www.thedogebowl.com/](http://www.thedogebowl.com/)<br>donate: D8q499U8RT5o7Kof44tohWH7NLRstEYr6Z
+- The Doge Bowl [http://www.thedogebowl.com/](http://www.thedogebowl.com/)<br>donate: DJTCbLaah3XEmw723cfrEzsi4iWLofFvo6
 - Bitcoin Mafia [http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/](http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/)<br>donate: D8ZBtukBTZEdneniTQkbFNoqwYYCSbNSLY
-- Dogecoin Faucet [http://faucet.io/](http://faucet.io/)<br>donate: DGRB5o1XsPmSch5wHTJQqXzX2V5z3rUv15
+- Faucet.io [http://faucet.io/](http://faucet.io/)<br>donate: DGRB5o1XsPmSch5wHTJQqXzX2V5z3rUv15
 - Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)<br>donate: D6pU4WYzELtUQuPaeHhZqG7eTX6Dr4m6HA
 - Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)<br>donate: DQKHNHu8sZvtMv41xms5HXU6wns891DCHS
 - In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)<br>donate: DHKyEpfmjxtwHa7kudDm7bVq8XWX6FsWpv
-- Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)<br>donate: DDvCG7G4nAWYiaP5rghxpLPisLBDUfqawR
-- Cryptospout's Dogecoin Faucet [http://cryptospout.com/faucet.php?coin=DOGE](http://cryptospout.com/faucet.php?coin=DOGE)<br>donate: D6Bfdc7Jw8vgiRJob24rkVYA37E5jAJj5r
-- Cryptotide's Dogecoin Faucet [http://cryptotide.com/faucet.php?coin=DOGE] (http://cryptotide.com/faucet.php?coin=DOGE) <br> donate: D6Bfdc7Jw8vgiRJob24rkVYA37E5jAJj5r
-- Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DBeJonaQ6JDHUo22cD2uscKmBg7dayUkjW
-- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)
-- Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
-- Doge Litehouse [http://dogelitehouse.com](http://dogelitehouse.com/)<br>donate: D8Bu4UZA5m7TgL9rHVpcNE4EG7nCrTMVkT
+- Cryptospout [http://cryptospout.com/faucet.php](http://cryptospout.com/faucet.php?coin=DOGE)<br>donate: DNy1UBfm3QJmgGoVJnaXPtdfKyvdpFwRkc
+- Cryptotide [http://cryptotide.com/faucet.php] (http://cryptotide.com/faucet.php?coin=DOGE) <br> donate: DNy1UBfm3QJmgGoVJnaXPtdfKyvdpFwRkc
+- Doge Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DA2TCRHrPZQub3udB8qiCNYkV9dBNMQnEh
+- CryptoBucket [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br>donate: DU2kciFMuQ2yA5g4sFz6oLij6WijwA7jfb
+- Doge2Goods [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)<br>donate: DD5THUsii1i3gcPv5rr9kpLnNUXcRGiKUk
+- Doge Litehouse [http://dogelitehouse.com/](http://dogelitehouse.com/)<br>donate: DKsUk4QyL34tH31zsZDZ1GWcudnh3G3iFV
 
 ### Broken
 
