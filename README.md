@@ -18,6 +18,15 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 - CryptoBucket [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)<br>donate: DU2kciFMuQ2yA5g4sFz6oLij6WijwA7jfb
 - Doge2Goods [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)<br>donate: DD5THUsii1i3gcPv5rr9kpLnNUXcRGiKUk
 - Doge Litehouse [http://dogelitehouse.com/](http://dogelitehouse.com/)<br>donate: DKsUk4QyL34tH31zsZDZ1GWcudnh3G3iFV
+- NFSoft [http://suchfaucet.nf-soft.cz/](http://suchfaucet.nf-soft.cz/)<br>donate: DM6pF9z7TxEiVtpNHGnxJVK7BLwFLVfpF4
+- SpicyDoge [http://spicydoge.com/](http://spicydoge.com/)<br>donate: D<i>Spicy</i>Q79aQk47n45kRCpfpcL1DGtJKs5r
+- CyanRainbow [http://www.cyanrainbow.com/](http://www.cyanrainbow.com/) (min cashout: 10Doge)
+- RenaFaucet [http://doge-faucet.tk/](http://doge-faucet.tk/) (min cashout: 15Doge)
+- FreeDoge.co.in [http://freedoge.co.in/](http://freedoge.co.in/) (free-roll every hour)
+- Le Dogecoin Faucet [http://dogecoinfaucet.weebly.com/dogecoin-faucet-click-me.html](http://dogecoinfaucet.weebly.com/dogecoin-faucet-click-me.html) (uses Adf.ly on submit button)<br>donate: DRP5JDxQ71TH6YHxbPbTgnix27N8UEhZCX
+- FreeFaucet [http://doge.freefaucet.com.ar/](http://doge.freefaucet.com.ar/)<br>donate: DSdXNmysPS9xUdwsqimSLzstP45d2ZAzsQ
+- 3 Free Dogecoins [http://3freedogecoins.com/](http://3freedogecoins.com/)<br>donate: D8zsvnD7nu7L8ecaFMa8RD1teAdfvYwW2Z
+- Fountain of Doge [http://fountainofdoge.com/](http://fountainofdoge.com/)<br>donate: DQTUFrVCpjAJvFqh7SVhKLmdiRSzkEaaGa
 
 ### Broken
 
