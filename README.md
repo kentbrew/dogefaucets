@@ -5,6 +5,7 @@ New to doge--or cryptocurrency in general--and want to try it out? Once you've [
 With the recent jump in value of dogecoin, many faucets are having trouble staying open.  Please donate, and please don't drain them dry if you're already more than a couple hundred doge in the bank.  Thanks!
 
 ### Working When Not Dry
+- MyDoge.co.in [http://mydoge.co.in] (http://mydoge.co.in)
 - FreeDoge.co.in [https://freedoge.co.in/](http://freedoge.co.in/)
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DBeJonaQ6JDHUo22cD2uscKmBg7dayUkjW
 - Desperate Doges (caution: extremely agressive pop-up ads) [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)<br>donate: DQiB7oDzp1eYSmfpYytVrDz2hCSQJoCc5Z
