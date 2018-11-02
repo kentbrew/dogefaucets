@@ -5,13 +5,14 @@ New to doge--or cryptocurrency in general--and want to try it out? Once you've [
 With the recent jump in value of dogecoin, many faucets are having trouble staying open.  Please donate, and please don't drain them dry if you're already more than a couple hundred doge in the bank.  Thanks!
 
 ### Working When Not Dry
-- In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)<br>donate: DHKyEpfmjxtwHa7kudDm7bVq8XWX6FsWpv
+- FreeDoge.co.in [https://freedoge.co.in/](http://freedoge.co.in/)
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DBeJonaQ6JDHUo22cD2uscKmBg7dayUkjW
 - Desperate Doges (caution: extremely agressive pop-up ads) [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)<br>donate: DQiB7oDzp1eYSmfpYytVrDz2hCSQJoCc5Z
 <br>[warning may contain malware 2018-11-01]
 
 ### Broken
 
+- reCAPTCHA not working: In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)
 - The Pawcett [http://pawcett.com/](http://pawcett.com/)
 - Moon Race [http://www.moonrace.tk/faucet/1/](http://www.moonrace.tk/faucet/1/)
 - Phunsauce [http://www.phunsauce.com/](http://www.phunsauce.com/)
