@@ -5,24 +5,10 @@ New to doge--or cryptocurrency in general--and want to try it out? Once you've [
 With the recent jump in value of dogecoin, many faucets are having trouble staying open.  Please donate, and please don't drain them dry if you're already more than a couple hundred doge in the bank.  Thanks!
 
 ### Working When Not Dry
-
-- The Doge Bowl [http://www.thedogebowl.com/](http://www.thedogebowl.com/)<br>donate: D8q499U8RT5o7Kof44tohWH7NLRstEYr6Z
-- Desperate Doges (caution: extremely agressive pop-up ads) [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)<br>donate: DQiB7oDzp1eYSmfpYytVrDz2hCSQJoCc5Z
-- Bitcoin Mafia [http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/](http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/)<br>donate: D8ZBtukBTZEdneniTQkbFNoqwYYCSbNSLY
-- Dogecoin Faucet [http://faucet.io/](http://faucet.io/)<br>donate: DGRB5o1XsPmSch5wHTJQqXzX2V5z3rUv15
-- Doge Faucet [http://coinfaucet.me/dogecoin](http://coinfaucet.me/dogecoin)<br>donate: DJHvUXCSCaoGCqfjWtLpeFkr6t2JeL8qJK
-- Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)<br>donate: D6pU4WYzELtUQuPaeHhZqG7eTX6Dr4m6HA
-- Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)<br>donate: DDXK4XZWFu3q6qBhQ8QbyzEdMRWiEzHJHV
-- Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)<br>donate: DQKHNHu8sZvtMv41xms5HXU6wns891DCHS
 - In Doge We Trust [http://indogewetrust.com/](http://indogewetrust.com/)<br>donate: DHKyEpfmjxtwHa7kudDm7bVq8XWX6FsWpv
-- Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)<br>donate: DDvCG7G4nAWYiaP5rghxpLPisLBDUfqawR
-- Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)<br>donate: D7cYYeDWGL5umVXYpfkekJ6xVxvDzqfDc2
-- Cryptospout's Dogecoin Faucet [http://cryptospout.com/faucet.php?coin=DOGE](http://cryptospout.com/faucet.php?coin=DOGE)<br>donate: D6Bfdc7Jw8vgiRJob24rkVYA37E5jAJj5r
-- Cryptotide's Dogecoin Faucet [http://cryptotide.com/faucet.php?coin=DOGE] (http://cryptotide.com/faucet.php?coin=DOGE) <br> donate: D6Bfdc7Jw8vgiRJob24rkVYA37E5jAJj5r
 - Dogecoin Faucet [http://www.dogefaucet.com/](http://www.dogefaucet.com/)<br>donate: DBeJonaQ6JDHUo22cD2uscKmBg7dayUkjW
-- CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)
-- Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
-- Doge Litehouse [http://dogelitehouse.com](http://dogelitehouse.com/)<br>donate: D8Bu4UZA5m7TgL9rHVpcNE4EG7nCrTMVkT
+- Desperate Doges (caution: extremely agressive pop-up ads) [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)<br>donate: DQiB7oDzp1eYSmfpYytVrDz2hCSQJoCc5Z
+<br>[warning may contain malware 2018-11-01]
 
 ### Broken
 
@@ -40,6 +26,20 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Missing, Redirecting, or Otherwise Hinky
 
+- domain not registered: The Doge Bowl [http://www.thedogebowl.com/](http://www.thedogebowl.com/)
+- 404 error page not found: Bitcoin Mafia [http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/](http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/)
+- address would not resolve: Dogecoin Faucet [http://faucet.io/](http://faucet.io/)
+- 404 error page not found: Doge Faucet [http://coinfaucet.me/dogecoin](http://coinfaucet.me/dogecoin)
+- page shows up blank: Doge Droppings [http://dogedroppings.com/](http://dogedroppings.com/)
+- faucet has been removed: Shibepool Faucet [http://faucet.shibepool.com/index.php](http://faucet.shibepool.com/index.php)
+- domain not registered: Wow Such Faucet [http://wowsuchfaucet.com.ar/](http://wowsuchfaucet.com.ar/)
+- no web server: Crypto Lockup [http://cryptolockup.com/doge/](http://cryptolockup.com/doge/)
+- domain not registered: Dogey Dogecoin Faucet [http://faucet.dogey.org/](http://faucet.dogey.org/)
+- redirects to google homepage: Cryptospout's Dogecoin Faucet [http://cryptospout.com/faucet.php?coin=DOGE](http://cryptospout.com/faucet.php?coin=DOGE)
+- shows a domain for sale page: Cryptotide's Dogecoin Faucet [http://cryptotide.com/faucet.php?coin=DOGE] (http://cryptotide.com/faucet.php?coin=DOGE)
+- blank/default page no faucet: CryptoBucket Doge Faucet [http://cryptobucket.com/dogecoin_faucet.php](http://cryptobucket.com/dogecoin_faucet.php)
+- domain for sale page: Doge2Goods Faucet [http://www.doge2goods.com/free-doge/](http://www.doge2goods.com/free-doge/)
+- domain not registered: Doge Litehouse [http://dogelitehouse.com](http://dogelitehouse.com/)
 - Closed, with crying shibe image: Dogecoin Faucet [http://dogefaucet.tk/](http://dogefaucet.tk/)
 - Gone, with link to source: Bartstuff.EU [http://bartstuff.eu/doge/doge2.php](http://bartstuff.eu/doge/doge2.php)
 - Security Warning: Bitcoin Project's Dogecoin Faucet [https://wow.bitcoinproject.net/](https://wow.bitcoinproject.net/)
