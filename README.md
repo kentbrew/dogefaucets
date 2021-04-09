@@ -6,6 +6,7 @@ With the recent jump in value of dogecoin, many faucets are having trouble stayi
 
 ### Working When Not Dry
 
+- Free Doge Faucet [https://free-doge.com/](https://free-doge.com/?ref=20198)
 - The Doge Bowl [http://www.thedogebowl.com/](http://www.thedogebowl.com/)<br>donate: D8q499U8RT5o7Kof44tohWH7NLRstEYr6Z
 - Desperate Doges (caution: extremely agressive pop-up ads) [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)<br>donate: DQiB7oDzp1eYSmfpYytVrDz2hCSQJoCc5Z
 - Bitcoin Mafia [http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/](http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/)<br>donate: D8ZBtukBTZEdneniTQkbFNoqwYYCSbNSLY
