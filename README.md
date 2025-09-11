@@ -4,8 +4,6 @@ New to doge--or cryptocurrency in general--and want to try it out? Once you've [
 
 With the recent jump in value of dogecoin, many faucets are having trouble staying open.  Please donate, and please don't drain them dry if you're already more than a couple hundred doge in the bank.  Thanks!
 
-# Nothing Works and Nobody Cares
-
 - The Doge Bowl [http://www.thedogebowl.com/](http://www.thedogebowl.com/)<br>donate: D8q499U8RT5o7Kof44tohWH7NLRstEYr6Z
 - Desperate Doges (caution: extremely agressive pop-up ads) [http://faucet.desperatedoges.com/](http://faucet.desperatedoges.com/)<br>donate: DQiB7oDzp1eYSmfpYytVrDz2hCSQJoCc5Z
 - Bitcoin Mafia [http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/](http://bitcoinmafia.com/bitcoin-mafias-free-dogecoin-faucet/)<br>donate: D8ZBtukBTZEdneniTQkbFNoqwYYCSbNSLY
