@@ -1,5 +1,9 @@
 New to doge--or cryptocurrency in general--and want to try it out? Once you've [gotten yourself a Dogecoin address](http://dogecoin.com/), here's a list of sites that will give you a few coins for nothing more than the solve of a CAPTCHA (and maybe the viewing of an ad and the setting of a cookie or two): 
 
+#### Please Note
+
+With the recent jump in value of dogecoin, many faucets are having trouble staying open.  Please donate, and please don't drain them dry if you're already more than a couple hundred doge in the bank.  Thanks!
+
 # Nothing Works and Nobody Cares
 
 - The Doge Bowl [http://www.thedogebowl.com/](http://www.thedogebowl.com/)<br>donate: D8q499U8RT5o7Kof44tohWH7NLRstEYr6Z
